@@ -53,5 +53,11 @@
         android:layout_marginBottom="24dp"
         android:text="@string/remember_me" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_button"
+        android:layout_marginBottom="16dp"/>
+
 
 </LinearLayout>
