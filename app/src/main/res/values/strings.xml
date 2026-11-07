@@ -2,4 +2,6 @@
     <string name="app_name">My Application</string>
     <string name="login_title">Iniciar Sesión</string>
     <string name="email_hint">Correo</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="remember_me">Recordarme</string>
 </resources>
