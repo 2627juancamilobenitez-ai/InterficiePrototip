@@ -5,4 +5,5 @@
     <string name="password_hint">Contraseña</string>
     <string name="remember_me">Recordarme</string>
     <string name="login_button">Entrar</string>
+    <string name="register_link">¿sin cuenta? Regístrate</string>
 </resources>
