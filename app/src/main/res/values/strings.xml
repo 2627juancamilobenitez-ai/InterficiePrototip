@@ -27,5 +27,17 @@
     <string name="language">Idioma</string>
     <string-array name="languages">Català, Castellano, English</string-array>
     <string name="language_default">Català</string>
+    <string name="catalog_title">Catálogo</string>
+    <string name="search_hint">Buscar por título o autor</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_available">Disponibles</string>
+    <string name="filter_sold">Vendidos</string>
+    <string name="book_cover_description">Portada del libro</string>
+    <string name="book_title_sample"> Título del libro</string>
+    <string name="book_author_price_sample">Autor · 12 €</string>
+    <string name="edit_book">Editar libro</string>
+    <string name="delete_book">Borrar libro</string>
+    <string name="add_book">Añadir libro</string>
+
 
 </resources>
