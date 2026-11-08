@@ -12,4 +12,9 @@
     <string name="repeat_password">Repetir contraseña</string>
     <string name="with_an_account">¿Ya tienes cuenta? Inicia sesión</string>
     <string name="register">Registrarme</string>
+    <string name="skip_button">Saltar</string>º
+    <string name="help_icon_description">Icono de libros</string>
+    <string name="help_title">Busca tu próximo libro</string>
+    <string name="help_text">Compra vende y consulta stock desde el móvil</string>
+    <string name="next_button">Siguiente</string>
 </resources>
