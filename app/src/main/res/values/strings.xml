@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="login_title">Iniciar Sesión</string>
-    <string name="email_hint">Correo</string>
+    <string name="email_hint">Correo Electrónico</string>
     <string name="password_hint">Contraseña</string>
     <string name="remember_me">Recordarme</string>
     <string name="login_button">Entrar</string>
     <string name="register_link">¿sin cuenta? Regístrate</string>
     <string name="guest_continue">Continuar sin registrarme</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="register_name">Nombre</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="with_an_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="register">Registrarme</string>
 </resources>
