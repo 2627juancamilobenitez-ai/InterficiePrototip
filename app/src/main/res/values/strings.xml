@@ -24,5 +24,8 @@
     <string name="font_small">Pequeño</string>
     <string name="font_normal">Normal</string>
     <string name="font_large">Grande</string>
+    <string name="language">Idioma</string>
+    <string-array name="languages">Català, Castellano, English</string-array>
+    <string name="language_default">Català</string>
 
 </resources>
