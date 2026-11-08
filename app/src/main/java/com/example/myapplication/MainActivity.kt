@@ -1,6 +1,8 @@
 package com.example.myapplication
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -16,5 +18,27 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+        findViewById<Button>(R.id.btnHelp).setOnClickListener {
+            startActivity(Intent(this, HelpActivity::class.java))
+        }
+        findViewById<Button>(R.id.btnLogin).setOnClickListener {
+            startActivity(Intent(this, LoginActivity::class.java))
+        }
+        findViewById<Button>(R.id.btnRegister).setOnClickListener {
+            startActivity(Intent(this, RegisterActivity::class.java))
+        }
+        findViewById<Button>(R.id.btnCatalog).setOnClickListener {
+            startActivity(Intent(this, BookListActivity::class.java))
+        }
+        findViewById<Button>(R.id.btnEdit).setOnClickListener {
+            startActivity(Intent(this, BookEditActivity::class.java))
+        }
+        findViewById<Button>(R.id.btnSettings).setOnClickListener {
+            startActivity(Intent(this, PreferencesActivity::class.java))
+        }
+
+
+
     }
 }

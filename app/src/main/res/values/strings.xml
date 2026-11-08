@@ -48,5 +48,12 @@
     <string-array name="book_statuses">Disponible, Vendido</string-array>
     <string name="save_button">Guardar</string>
     <string name="delete_button">Eliminar</string>
+    <string name="home_title">Librería</string>
+    <string name="go_help">Ayuda</string>
+    <string name="go_login">Iniciar sesión</string>
+    <string name="go_register">Registro</string>
+    <string name="go_catalog">Catálogo</string>
+    <string name="go_edit">Editar Libro</string>
+    <string name="go_settings">Ajustes</string>
 
 </resources>
