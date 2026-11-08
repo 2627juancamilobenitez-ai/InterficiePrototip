@@ -17,4 +17,7 @@
     <string name="help_title">Busca tu próximo libro</string>
     <string name="help_text">Compra vende y consulta stock desde el móvil</string>
     <string name="next_button">Siguiente</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="dark_theme">Tema oscuro</string>
+    <string name="notificacions">Notificaciones</string>
 </resources>
