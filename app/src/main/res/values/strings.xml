@@ -38,6 +38,8 @@
     <string name="edit_book">Editar libro</string>
     <string name="delete_book">Borrar libro</string>
     <string name="add_book">Añadir libro</string>
-
+    <string name="edit_book_title">Editar libro</string>
+    <string name="book_title_hint">Título</string>
+    <string name= "book_author_hint"> Autor </string>
 
 </resources>
