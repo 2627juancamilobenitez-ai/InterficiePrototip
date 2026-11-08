@@ -20,4 +20,9 @@
     <string name="title_settings">Ajustes</string>
     <string name="dark_theme">Tema oscuro</string>
     <string name="notificacions">Notificaciones</string>
+    <string name="font_size">Tamaño de letra</string>
+    <string name="font_small">Pequeño</string>
+    <string name="font_normal">Normal</string>
+    <string name="font_large">Grande</string>
+
 </resources>
